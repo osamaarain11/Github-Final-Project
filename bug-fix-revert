@@ -15,8 +15,8 @@ $ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introd
     },
     "repo": {
       "id": 482910482,
-      "name": "Simple-interest-calculator",
-      "full_name": "osamaarain11/Simple-interest-calculator",
+      "name": "Github-Final-Project",
+      "full_name": "osamaarain11/Github-Final-Project",
       "owner": {
         "login": "osamaarain11"
       }
