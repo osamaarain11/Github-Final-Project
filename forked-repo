@@ -1,4 +1,4 @@
-$ curl -s https://api.github.com/repos/osamaarain11/Simple-interest-calculator | grep -A 10 -i "parent"
+$ curl -s https://api.github.com/repos/osamaarain11/Github-Final-Project | grep -A 10 -i "parent"
   "parent": {
     "id": 482910482,
     "node_id": "R_kgDOHL31Eg",
