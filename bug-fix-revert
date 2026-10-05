@@ -1,0 +1,19 @@
+$ curl -s https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1 | grep -i head
+    "head": {
+      "label": "YOUR-USERNAME:bug-fix-revert",
+      "ref": "bug-fix-revert",
+      "sha": "a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6e7f8a9b0",
+      "user": {
+        "login": "YOUR-USERNAME",
+        "id": 12345678,
+        "type": "User"
+      },
+      "repo": {
+        "id": 87654321,
+        "name": "mcino-Introduction-to-Git-and-GitHub",
+        "full_name": "YOUR-USERNAME/mcino-Introduction-to-Git-and-GitHub",
+        "owner": {
+          "login": "YOUR-USERNAME"
+        }
+      }
+    }
