@@ -49,3 +49,4 @@ let T = 2;     // Time in years
 let result = calculateSimpleInterest(P, R, T);
 console.log(`Simple Interest: $${result.interest}`);
 console.log(`Total Amount: $${result.totalAmount}`);
+Testing branch merge
